@@ -23,11 +23,18 @@ It includes three primary screens:
 - Code editor (VS Code or Android Studio)  
 - Emulator or physical mobile device  
 
-### Installation
-- git clone https://github.com/your-username/flutter-chat-ui.git
-- cd flutter-chat-ui
-- flutter pub get
-- flutter run
+### Installation Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/flutter-crud-users.git
+   cd flutter-crud-users
+
+2. Install dependencies
+flutter pub get
+
+3. Run the app
+flutter run
 
 ## Tech Stack
 - Flutter – UI Framework
